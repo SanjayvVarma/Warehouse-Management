@@ -14,10 +14,10 @@ This project is a Warehouse Management System built using React and Redux Toolki
 ## Screenshots
 
 ### Warehouse List
-![Warehouse List](./images/warehouse-list.png)
+![Warehouse List](/src/assets/warehouseList.png)
 
 ### Warehouse Detail
-![Warehouse Detail](./images/warehouse-detail.png)
+![Warehouse Detail](/src/assets/warehouse%20details.png)
 
 ## Functionalities
 
@@ -68,4 +68,4 @@ This project is a Warehouse Management System built using React and Redux Toolki
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
