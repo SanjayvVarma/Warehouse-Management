@@ -46,9 +46,9 @@ You can access the live demo of the project here: [Warehouse Management System](
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/warehouse-management-system.git
+   git clone https://github.com/SanjayvVarma/Warehouse-Management.git
 
-   cd warehouse-management-system
+   cd Warehouse-Management
 
    npm install
 
