@@ -66,6 +66,3 @@ This project is a Warehouse Management System built using React and Redux Toolki
 - **Unit Testing**: Implement unit tests for components and Redux slices to ensure code reliability and maintainability.
 - **Styling Improvements**: Revamp the UI with modern design practices and potentially a UI library like Material-UI or Bootstrap.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
