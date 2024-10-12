@@ -4,6 +4,10 @@
 
 This project is a Warehouse Management System built using React and Redux Toolkit. It allows users to view a list of warehouses, filter them based on various attributes, and view or edit the details of a specific warehouse. 
 
+## Live Demo
+
+You can access the live demo of the project here: [Warehouse Management System](https://warehouse-management-steel.vercel.app/)
+
 ## Features
 
 - **Warehouse List**: Displays a list of warehouses with search functionality.
