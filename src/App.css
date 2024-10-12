@@ -1,0 +1,44 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-box {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.input-box {
+    width: 19rem;
+    padding: 5px;
+}
+
+.search-btn {
+    width: 5rem;
+    padding: 5px;
+}
+
+
+table {
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    border-color: gray;
+    border: 1px solid black;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px 55px;
+}
+
+
+.input-details-box {
+  border: none;
+  width: 6rem;
+  outline: none;
+}
