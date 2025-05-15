@@ -36,8 +36,12 @@ const WarehouseList = () => {
                 <tbody>
                     {warehouses.map(warehouse => (
                         <tr key={warehouse.id}>
-                            <td>{warehouse.name}</td>
-                            <td><Link to={`/warehouse/${warehouse.id}`}>Click</Link></td>
+                            <td><span className="warehouse-name">{warehouse.name}</span></td>
+                            <td>
+                                <Link className="click-btn" to={`/warehouse/${warehouse.id}`}>
+                                    View Details ➜
+                                </Link>
+                            </td>
                         </tr>
                     ))}
                 </tbody>
