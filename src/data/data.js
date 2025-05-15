@@ -77,7 +77,7 @@ const warehousesData = [
         "is_live": false
     },
     {
-        "name": "Warehouse-23455",
+        "name": "Warehouse-2345",
         "code": "W-00008",
         "id": 8,
         "city": "Bangalore",
@@ -110,7 +110,7 @@ const warehousesData = [
         "is_live": true
     },
     {
-        "name": "Warehouse-3245678",
+        "name": "Warehouse-324",
         "code": "W-000011",
         "id": 11,
         "city": "Delhi",
@@ -139,6 +139,17 @@ const warehousesData = [
         "space_available": 654,
         "type": "Leasable Space",
         "cluster": "cluster-a-1",
+        "is_registered": true,
+        "is_live": false
+    },
+    {
+        "name": "Warehouse-1058",
+        "code": "W-000023",
+        "id": 13,
+        "city": "Rajgarh",
+        "space_available": 1654,
+        "type": "Leasable Space",
+        "cluster": "cluster-ab-1",
         "is_registered": true,
         "is_live": false
     }
